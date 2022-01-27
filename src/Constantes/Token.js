@@ -1,0 +1,1 @@
+export const Token = localStorage.getItem("Token") ? localStorage.getItem("Token").replace("\"","").replace("\"","") : null;

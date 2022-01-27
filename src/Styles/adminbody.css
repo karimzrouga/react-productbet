@@ -1,0 +1,23 @@
+#page-content-wrapper{
+    margin-left:18%;
+    margin-right:18%;
+   width: 80%;
+  
+}
+
+
+.card-1 {
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #fff
+}
+
+.icons i {
+    margin-left: 20px
+}
+#sidebar-wrapper{
+    position:absolute;
+    height: 1000%;
+    
+}

@@ -1,0 +1,21 @@
+.mydiv{
+   
+    width:100%px; 
+   min-width:100%px;
+   height: auto;
+}
+
+#htitre{
+    text-align: center;
+   
+}
+.section-title {
+    margin-bottom: 38px
+}
+
+.shadow,
+.subscription-wrapper {
+    box-shadow: 0px 15px 39px 0px rgba(8, 18, 109, 0.1) !important
+}
+
+

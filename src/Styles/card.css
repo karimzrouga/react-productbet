@@ -1,0 +1,9 @@
+.card{
+	max-width: 740px;
+
+}
+.event{
+display: inline-block;
+margin-left: 20%;
+margin-top: 10%;
+}
